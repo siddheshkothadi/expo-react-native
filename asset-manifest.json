@@ -1,0 +1,21 @@
+{
+  "files": {
+    "app.js": "/expo-react-native/static/js/app.f69795a0.chunk.js",
+    "app.js.map": "/expo-react-native/static/js/app.f69795a0.chunk.js.map",
+    "runtime~app.js": "/expo-react-native/static/js/runtime~app.1ca7f551.js",
+    "runtime~app.js.map": "/expo-react-native/static/js/runtime~app.1ca7f551.js.map",
+    "static/js/2.11482cc9.chunk.js": "/expo-react-native/static/js/2.11482cc9.chunk.js",
+    "static/js/2.11482cc9.chunk.js.map": "/expo-react-native/static/js/2.11482cc9.chunk.js.map",
+    "favicon-16.png": "/expo-react-native/favicon-16.png",
+    "favicon-32.png": "/expo-react-native/favicon-32.png",
+    "favicon.ico": "/expo-react-native/favicon.ico",
+    "index.html": "/expo-react-native/index.html",
+    "manifest.json": "/expo-react-native/manifest.json",
+    "serve.json": "/expo-react-native/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1ca7f551.js",
+    "static/js/2.11482cc9.chunk.js",
+    "static/js/app.f69795a0.chunk.js"
+  ]
+}
